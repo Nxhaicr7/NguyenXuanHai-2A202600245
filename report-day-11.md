@@ -1,3 +1,4 @@
+Nguyễn Xuân Hải - 2A202600245
 # Part B: Individual Report - Assignment 11
 
 ## 1) Layer analysis: Với 7 attack prompts ở Test 2, layer nào chặn đầu tiên?
